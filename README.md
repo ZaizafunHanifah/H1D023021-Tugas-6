@@ -45,7 +45,7 @@ Aplikasi ini memiliki dua halaman utama:
 
 ### Hasil Aplikasi
 
-![Halaman Input Data](imput%20dta.jpg)
+![Halaman Input Data](input_data.jpg)
 ![Halaman Perkenalan](perkenalan.jpg)
 
 Demikian penjelasan tentang proses pengiriman (passing) data dari halaman form menuju halaman tampilan pada aplikasi ini.
